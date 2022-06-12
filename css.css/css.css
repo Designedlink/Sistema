@@ -1,0 +1,125 @@
+*{font-family: 'Fascinate', cursive;}
+
+.Fondo{
+    position: relative;
+    width: 1226px;
+    height: 620px;
+    top: 1rem;
+    left: 6.8rem;
+
+    background:background: rgb(117,85,132);
+background: radial-gradient(circle, rgba(117,85,132,1) 0%, rgba(30,41,97,1) 100%);
+}
+
+.Grupo_1{
+    background-color: #201E59;
+    display: flex;
+    flex-direction: row-reverse;
+    padding-right: 2rem;
+    color: #ffffff;
+}
+
+.Grados{
+    padding-right: 1.5rem;
+    font-size:1.3rem;
+}
+
+.wifi{
+    width: 1.5rem;
+    height: 1.5rem;
+    position: relative;
+    top: 1rem;
+    right: 0.5rem;
+}
+
+.Ajustes{
+    width: 1.5rem;
+    height: 1.5rem;
+    position: relative;
+    top: 1rem;
+    right: 1rem;
+}
+
+.Carga{
+    width: 1.5rem;
+    height: 1.5rem;
+    position: relative;
+    top: 1rem;
+    right: 0.1rem;
+}
+
+.Dentro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 8rem;
+}
+
+.hora{
+    font-size: 7rem;
+    margin: 1rem;
+    color: #ffffff;
+}
+
+.fecha{
+    font-size: 2.2rem;
+    color: #ffffff;
+}
+
+.barra{
+    
+background: linear-gradient(21deg, rgba(55,61,121,1) 9%, rgba(0,0,0,0.9122023809523809) 46%, rgba(55,61,121,1) 93%);
+
+    height: 5rem;
+
+    position: relative;
+    top: 8rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home{
+    height: 2.8rem;
+      width: center;
+}
+
+.menu{
+    position: relative;
+    bottom: 13.5rem;
+    left: 27.4rem;
+    transition: 3s;
+
+    width: 16rem;
+    display: none;
+}
+
+.activo{
+    display: block;
+}
+
+.Stfy{
+    position: relative;
+    left: 1rem;
+    width: 4rem;
+}
+
+.Play{
+    position: relative;
+    right: 1rem;
+    width: 4rem;
+}
+
+.Archivos{
+    position:relative;
+    right: 16rem;
+    width: 3.8rem;
+}
+
+.Op{
+    position:relative;
+    right: 2rem;
+    width: 3.8rem;
+}
+
+
